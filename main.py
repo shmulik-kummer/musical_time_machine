@@ -30,8 +30,8 @@ def get_billboard_titles(date):
         return None
 
 
-CLIENT_ID = '12f3639439a44908889fccb2414a78b0'
-CLIENT_SECRET = 'a455f4bcbe9d42e68ace01041db02328'
+CLIENT_ID = 'XXX'
+CLIENT_SECRET = 'XXX'
 REDIRECT_URI = 'http://example.com'  # This should match the redirect URI you specified in the Spotify Developer Dashboard
 SCOPE = 'playlist-modify-private'
 
